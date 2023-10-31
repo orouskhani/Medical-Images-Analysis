@@ -1,4 +1,4 @@
-# Pre & Post-processing of 3D medical images
+# Pre & Post-processing of 3D medical images (3D MRA)
 In this repository, we are presenting different codes for analyzing 3D medical images in pre and post-processing. 
 
 Please use the follwoing code: </br>
